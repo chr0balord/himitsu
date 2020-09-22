@@ -3,7 +3,7 @@ path: "/blog/20200922-Hinatazaka46-AllSingleMedley"
 date: "2020-09-22"
 title: "[Perform] Hinatazaka46 - All Single Medley @CDTV : Live! Live!"
 author: "Chr0balord"
-description: "Perform Hinatazaka46 - All Single Medley."
+description: "Perform Hinatazaka46 All Single Medley."
 tags: ["Perform", "Hinatazaka46"]
 image: image.jpg
 image2: "../../assets/badges/hinatazaka46.png"
